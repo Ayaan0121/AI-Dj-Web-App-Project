@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+}
+
+#head{
+    background-image: url("header.jpg");
+    background-size: center
+;
+    width: 100%;
+    margin-top: 0px;
+    height: 120px;
+    color: whitesmoke;
+    font-size: 27px;
+    font-family: 'Fruktur', cursive;
+}
+
+#note{
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+}
+
+#song{
+    font-size: 23px;
+    background-color: royalblue;
+    font-style: italic;
+    color: white;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 60px;
+}
+
